@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-project:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-10T11:00:49.217316502Z"
+    description: A Helm chart for java-project
+    digest: eaca0cf8252928b134dbc5e7330e3f7f3e492e68349823ac36a3e69ab2828ca5
+    name: java-project
+    type: application
+    urls:
+    - https://avk025.github.io/helm-java/java-project-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-10T11:00:49.207382402Z"
